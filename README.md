@@ -1,0 +1,3 @@
+Both submodules have their own instructions on setting them up. Once that is complete, you can run the app by first running the backend (which should run on port 3000), then the frontend. The frontend will ask if you want to run on port 3001 since port 3000 is in use, just say yes. These ports are what both actually need to do.
+
+Eventually I'll update the app so it's more dynamic, that's just how it has to be done for now
