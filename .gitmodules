@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:namedtoaster/faceapp-server.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:namedtoaster/facerecognitionbrain.git
